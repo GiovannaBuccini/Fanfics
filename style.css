@@ -9,7 +9,7 @@ ul {
 }
 
 body {
-    background-image: url(https://s3.us-west-2.amazonaws.com/secure.notion-static.com/1e58706c-bb7e-4661-8374-1453da82e89e/1189420%281%29.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220925%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220925T113020Z&X-Amz-Expires=86400&X-Amz-Signature=bd89fd65a726fc69fd19d6f1ffb34f57cb43aae3435d7e10f26d2b455b2f2ac6&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%221189420%281%29.jpg%22&x-id=GetObject);
+    background-image: url(https://s3.us-west-2.amazonaws.com/secure.notion-static.com/1e58706c-bb7e-4661-8374-1453da82e89e/1189420%281%29.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220926%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220926T201407Z&X-Amz-Expires=86400&X-Amz-Signature=d61e2489fd72c568cc4d1a76dd94208bfffc329bd97b605995f9591449464c17&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%221189420%281%29.jpg%22&x-id=GetObject);
     background-size: cover;
     background-position: top center;
     background-size: 100% auto;

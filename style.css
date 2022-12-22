@@ -9,12 +9,10 @@ ul {
 }
 
 body {
-    background-image: url(https://s3.us-west-2.amazonaws.com/secure.notion-static.com/1e58706c-bb7e-4661-8374-1453da82e89e/1189420%281%29.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220928%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220928T211541Z&X-Amz-Expires=86400&X-Amz-Signature=f5e191743a979de2f0d27e1b792877539dea1a4b30bcfc7e8599970d3bad7c1e&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%221189420%281%29.jpg%22&x-id=GetObject);
-    background-size: cover;
-    background-position: top center;
-    background-size: 100% auto;
-    background-repeat: no-repeat;
-    background-color: #000000;
+    background-image: url("https://i.pinimg.com/originals/5c/d7/8e/5cd78ee76d5842f697052b650a2276e5.gif");
+   background-size: cover;
+   background-repeat: no-repeat;
+   
 }
 
 
@@ -31,7 +29,7 @@ header {
 header div {
     width: 120px;
     margin: auto;
-    background-image: linear-gradient(90deg, #ffffff 0%, #8a8a8a 50.52%, #101010 100%);
+    background-image: linear-gradient(90deg, #e9e9e9 0%, #5c5c5c 50.52%, #101010 100%);
 
     border-radius: 50%;
 
@@ -110,9 +108,9 @@ section ul li:hover {
     border: 1px solid #ffffff;
 
 /* animation */
-
 header div {
     animation: fromTop .7s .2s backwards;
+
 }
 
 main section {
